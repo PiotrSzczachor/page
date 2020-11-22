@@ -15,9 +15,13 @@ Projekt wykonywany na narzędzia informatyczne we współpracy z:
 
 *Cel projektu*
 ---
-PyChess to projekt polegajacy na stworzeniu gry w szachy w języku Python. Ważnym aspektem tego konceptu jest zdobywanie wiedzy z zakresu pracy zespołowej nad proejktami informatycznymi i stosowanie jak wiekszej ilosci narzedzi informatycznych ułatwiających pracę nad danym zadaniem. 
+
+PyChess to projekt polegajacy na stworzeniu gry w szachy w języku Python. Ważnym aspektem tego konceptu jest zdobywanie wiedzy z zakresu pracy zespołowej nad projektami informatycznymi i stosowanie jak najwiekszej ilosci narzedzi informatycznych ułatwiających pracę nad danym zadaniem. 
+
 ---
+
 Narzęzia używane do ułatwienia pracy zespołowej:
+
 - MS Teams:
 
 ![MS Teams](https://www.ursinus.edu/live/image/gid/109/width/600/height/600/crop/1/src_region/26,0,297,271/32819_microsoft-teams-1.jpg)
