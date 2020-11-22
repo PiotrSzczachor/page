@@ -28,7 +28,7 @@ Narzęzia używane do ułatwienia pracy zespołowej:
 
 - Slack:
 
-![Slack](https://mediumrarebasketball.files.wordpress.com/2019/01/slack-logo.png)
+![Slack](https://www.jobsexpo.ie/wp-content/uploads/2015/05/app-200x200.png)
 
 - Github:
 
@@ -40,7 +40,7 @@ Narzęzia używane do ułatwienia pracy zespołowej:
 
 - Google Calendar:
 
-![Google Calendar](https://cdn.dribbble.com/users/869811/screenshots/2750070/dribbble_shot_4.png)
+![Google Calendar](https://pbs.twimg.com/profile_images/1313395475257516037/4dYmDURO_400x400.jpg)
 
 
 
