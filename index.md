@@ -2,6 +2,10 @@
 
 Strona stworzona jako zadanie na Narzędzia Informatyczne
 
+Bieżące projekty:
+- PyChess
+
+
 
 ### Markdown
 
