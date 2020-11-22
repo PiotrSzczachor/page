@@ -13,7 +13,10 @@ Projekt wykonywany na narzędzia informatyczne we współpracy z:
 - Maciej Krajewski
 - Paweł Wojciechowski 
 
+---
+
 *Cel projektu*
+
 ---
 
 PyChess to projekt polegajacy na stworzeniu gry w szachy w języku Python. Ważnym aspektem tego konceptu jest zdobywanie wiedzy z zakresu pracy zespołowej nad projektami informatycznymi i stosowanie jak najwiekszej ilosci narzedzi informatycznych ułatwiających pracę nad danym zadaniem. 
