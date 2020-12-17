@@ -26,6 +26,9 @@ PyChess to projekt polegajacy na stworzeniu gry w szachy w języku Python. Ważn
 - Była to świetna okazja do zintegrowania się i poznania nowych osob w tak trudnym okresie. 
 
 
+Podsumowując wzięcie udziału w projekcie to same plusy :)
+
+
 
 ---
 
