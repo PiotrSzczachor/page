@@ -20,6 +20,13 @@ Projekt wykonywany na narzędzia informatyczne we współpracy z:
 
 PyChess to projekt polegajacy na stworzeniu gry w szachy w języku Python. Ważnym aspektem tego konceptu jest zdobywanie wiedzy z zakresu pracy zespołowej nad projektami informatycznymi i stosowanie jak najwiekszej ilosci narzedzi informatycznych ułatwiających pracę nad danym zadaniem. 
 
+
+- Warto wspomnieć, że wybrany przez nas języki (Python), był językiem z którym znaczna część grupy miała styczność po raz pierwszy.
+- Tworzenie projektu pozwoliło nam uzyskac ogromną ilość przydatnej wiedzy.
+- Była to świetna okazja do zintegrowania się i poznania nowych osob w tak trudnym okresie. 
+
+
+
 ---
 
 Narzęzia używane do ułatwienia pracy zespołowej:
